@@ -1,0 +1,29 @@
+::-webkit-scrollbar
+{
+  width: 1px !important;  
+  /* height: 12px !important;  */
+}
+
+/* .MuiStepIcon-root.MuiStepIcon-completed {
+    color: gray !important;
+}
+
+.MuiStepIcon-root {
+    color: gray !important;
+    display: block;
+}
+
+.MuiStepIcon-root.MuiStepIcon-active {
+    color: gray !important;
+}
+
+.MuiStepIcon-text {
+    color: #fff;
+    background-color: gray;
+    font-size: 0.75rem;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+.input:-webkit-autofill + label {
+   color:white
+} */
